@@ -2,8 +2,8 @@
 
 myCloth =
 {
-"amount": "10 oz",
+"type": " Dress",
 "colors": "Black and white",
-"texture": "sweet",
-"temperature": "cold"
+"texture": "silk",
+"length": "long"
 }
