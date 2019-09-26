@@ -1,0 +1,9 @@
+//Object 1//
+
+myCloth =
+{
+"amount": "10 oz",
+"colors": "Black and white",
+"texture": "sweet",
+"temperature": "cold"
+}
